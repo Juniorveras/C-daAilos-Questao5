@@ -11,3 +11,8 @@ Funcionalidade 2: Consulta do Saldo da Conta Corrente
 Para desenvolver essa funcionalidade, criei um novo endpoint de API que aceita o seguinte parâmetro:
 
 idcontacorrente: o identificador único da conta corrente
+
+
+API de Movimenta e de Saldo.
+São feitas em uma única Classe, separadas por funcionalidades, mas de fácil entendimento para desenvolvedores.
+Assim evitando clonagem de respostas de teste. 
